@@ -10,7 +10,7 @@ to learn and grow. With a curious mind and an enthusiastic spirit, I embrace new
 - 🤓 Lifelong learning is my mantra, and I'm always exploring new subjects and technologies.
 - 🤝 I'm a people person and thrive in collaborative environments, valuing teamwork and open communication.
 
-You can contact me via [LinkedIn](https://www.linkedin.com/in/bruno-mollo/)
+You can contact me via [LinkedIn](https://www.linkedin.com/in/faustosaludas/)
 
 ## 🔧 Technologies & Tools
 
