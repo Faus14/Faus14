@@ -6,9 +6,11 @@ I'm a passionate developer who loves challenges and constantly seeks opportuniti
 to learn and grow. With a curious mind and an enthusiastic spirit, I embrace new technologies and tackle problems head-on.
 
 ### About me:
-- 💡 Challenges excite me, and I believe they lead to personal and professional growth.
-- 🤓 Lifelong learning is my mantra, and I'm always exploring new subjects and technologies.
-- 🤝 I'm a people person and thrive in collaborative environments, valuing teamwork and open communication.
+🚀 I'm a firm believer in the power of innovation and enjoy pushing boundaries to create solutions that can positively impact the world. Whether it's tackling complex problems or envisioning a better future, I'm always ready to embark on exciting ventures that challenge . 💪🌍
+
+📚 I see every day as an opportunity to expand my knowledge and skills 📖🌟
+
+🤗 Collaboration, for me, is not just a means to an end but a source of endless inspiration, as I cherish the beauty of shared visions and collective accomplishments. 🌐✨
 
 You can contact me via [LinkedIn](https://www.linkedin.com/in/faustosaludas/)
 
