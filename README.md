@@ -2,6 +2,8 @@
 
 <h3 align="center"> Systems Engineer in process, currently in Argentina</h3>
 
+You can contact me via [Fausto Saludas](https://faus14.github.io/)
+
 I'm a passionate developer who loves challenges and constantly seeks opportunities
 to learn and grow. With a curious mind and an enthusiastic spirit, I embrace new technologies and tackle problems head-on.
 
@@ -13,6 +15,7 @@ to learn and grow. With a curious mind and an enthusiastic spirit, I embrace new
 🤗 Collaboration, for me, is not just a means to an end but a source of endless inspiration, as I cherish the beauty of shared visions and collective accomplishments. 🌐✨
 
 You can contact me via [LinkedIn](https://www.linkedin.com/in/faustosaludas/)
+
 
 ## 🔧 Technologies & Tools
 
