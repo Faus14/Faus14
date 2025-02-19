@@ -1,45 +1,62 @@
-<h1 align="center"><< Fausto Saludas >>  👨‍💻</h1>
+# ¡Hola! I'm Fausto Saludas 👨‍💻
 
-<h3 align="center"> Systems Engineer in process, currently in Argentina</h3>
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-faus14.github.io-2bbc8a?style=for-the-badge&logo=github)](https://faus14.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/faustosaludas/)
 
-You can contact me via [Fausto Saludas](https://faus14.github.io/)
+</div>
 
-I'm a passionate developer who loves challenges and constantly seeks opportunities
-to learn and grow. With a curious mind and an enthusiastic spirit, I embrace new technologies and tackle problems head-on.
+## 👨‍🎓 About Me
 
-### About me:
-🚀 I'm a firm believer in the power of innovation and enjoy pushing boundaries to create solutions that can positively impact the world. Whether it's tackling complex problems or envisioning a better future, I'm always ready to embark on exciting ventures that challenge . 💪🌍
+Systems Engineering student based in Argentina, passionate about technology and innovation. I thrive on challenges and continuously seek opportunities to expand my knowledge and skills.
 
-📚 I see every day as an opportunity to expand my knowledge and skills 📖🌟
+- 🚀 Passionate about creating impactful solutions through innovative technology
+- 🌱 Committed to continuous learning and personal growth
+- 🤝 Strong believer in collaborative development and knowledge sharing
+- 🌍 Driven to make a positive impact on the world through technology
+- 💡 Always excited to tackle new challenges and learn from them
 
-🤗 Collaboration, for me, is not just a means to an end but a source of endless inspiration, as I cherish the beauty of shared visions and collective accomplishments. 🌐✨
+## 🛠️ Tech Stack
 
-You can contact me via [LinkedIn](https://www.linkedin.com/in/faustosaludas/)
+<div align="center">
 
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
-## 🔧 Technologies & Tools
+### Frameworks
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
-![](https://img.shields.io/badge/Lang-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/☕︎Lang-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Lang-Csharp-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+### Development Tools
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-![](https://img.shields.io/badge/Framework-.Net%20Core-informational?style=flat&logo=.net&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
+</div>
 
-![](https://img.shields.io/badge/database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+## 📊 GitHub Statistics
 
-![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat&logo=intellijidea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faus14&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Faus14&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=ffffff"/>
+</div>
 
+## 🤝 Let's Connect!
 
-<h3>Statistical Data :</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Faus14&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
-<br>
+I'm always interested in collaborating on exciting projects and connecting with fellow developers. Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/faustosaludas/) or check out my [portfolio](https://faus14.github.io/)!
 
+<div align="center">
 
+```python
+while True:
+    code()
+    learn()
+    grow()
+```
 
-
+</div>
