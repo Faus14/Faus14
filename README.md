@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-faus14.github.io-2bbc8a?style=for-the-badge&logo=github)](https://faus14.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-faus14.github.io-2bbc8a?style=for-the-badge&logo=github)]([https://faus14.github.io/](https://faustosaludas.netlify.app/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/faustosaludas/)
 
 </div>
