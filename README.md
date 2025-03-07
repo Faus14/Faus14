@@ -1,16 +1,12 @@
 # ¡Hola! I'm Fausto Saludas 👨‍💻
-
 <div align="center">
   
-[![Portfolio](https://faustosaludas.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9cf?style=for-the-badge&logo=netlify)](https://faustosaludas.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/faustosaludas/)
-
 </div>
 
 ## 👨‍🎓 About Me
-
 Systems Engineering student based in Argentina, passionate about technology and innovation. I thrive on challenges and continuously seek opportunities to expand my knowledge and skills.
-
 - 🚀 Passionate about creating impactful solutions through innovative technology
 - 🌱 Committed to continuous learning and personal growth
 - 🤝 Strong believer in collaborative development and knowledge sharing
@@ -18,7 +14,6 @@ Systems Engineering student based in Argentina, passionate about technology and 
 - 💡 Always excited to tackle new challenges and learn from them
 
 ## 🛠️ Tech Stack
-
 <div align="center">
 
 ### Languages
@@ -40,12 +35,10 @@ Systems Engineering student based in Argentina, passionate about technology and 
 ### Development Tools
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
 </div>
 
 ## 🤝 Let's Connect!
-
-I'm always interested in collaborating on exciting projects and connecting with fellow developers. Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/faustosaludas/) or check out my [portfolio](https://faus14.github.io/)!
+I'm always interested in collaborating on exciting projects and connecting with fellow developers. Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/faustosaludas/) or check out my [portfolio](https://faustosaludas.netlify.app/)!
 
 <div align="center">
 
@@ -55,5 +48,4 @@ while True:
     learn()
     grow()
 ```
-
 </div>
