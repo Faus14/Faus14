@@ -1,4 +1,4 @@
-# ¡Hola! I'm Fausto Saludas 👨‍💻
+# ¡HELLO! I'm Fausto Saludas 👨‍💻
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9cf?style=for-the-badge&logo=netlify)](https://faustosaludas.netlify.app/)
