@@ -6,7 +6,7 @@
 </div>
 
 ## 👨‍🎓 About Me
-Systems Engineering student based in Argentina, passionate about technology and innovation. I thrive on challenges and continuously seek opportunities to expand my knowledge and skills.
+Systems Engineering based in Argentina, passionate about technology and innovation. I thrive on challenges and continuously seek opportunities to expand my knowledge and skills.
 - 🚀 Passionate about creating impactful solutions through innovative technology
 - 🌱 Committed to continuous learning and personal growth
 - 🤝 Strong believer in collaborative development and knowledge sharing
