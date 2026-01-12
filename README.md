@@ -1,7 +1,7 @@
 # ¡HELLO! I'm Fausto Saludas 👨‍💻
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9cf?style=for-the-badge&logo=netlify)](https://faustosaludas.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9cf?style=for-the-badge&logo=netlify)](https://faustosaludas.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/faustosaludas/)
 </div>
 
@@ -38,7 +38,7 @@ Systems Engineering based in Argentina, passionate about technology and innovati
 </div>
 
 ## 🤝 Let's Connect!
-I'm always interested in collaborating on exciting projects and connecting with fellow developers. Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/faustosaludas/) or check out my [portfolio](https://faustosaludas.netlify.app/)!
+I'm always interested in collaborating on exciting projects and connecting with fellow developers. Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/faustosaludas/) or check out my [portfolio](https://faustosaludas.com/)!
 
 <div align="center">
 
