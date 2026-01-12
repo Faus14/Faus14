@@ -1,10 +1,10 @@
-# 👋 Hola, soy Fausto Saludas
+# Hola, soy Fausto Saludas
 
 <div align="center">
 
 **DevOps Engineer | Full Stack Developer | Blockchain Infrastructure**
 
-📍 Argentina · 🌐 [faustosaludas.com](https://faustosaludas.com/) · 💼 [LinkedIn](https://www.linkedin.com/in/faustosaludas/)
+Argentina · [faustosaludas.com](https://faustosaludas.com/) · [LinkedIn](https://www.linkedin.com/in/faustosaludas/)
 
 </div>
 
